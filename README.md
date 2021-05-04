@@ -1,9 +1,8 @@
 ### Hi there, I'm Jan-Niklas Wielpütz 👋
 
-## I'm a Man, Friend, and Researcher!
+## I'm a Softwaredeveloper!
 - 🔭 I’m currently working on a personal project!
-- 🌱 I’m currently learning Django development 🤣
-- 🥅 2020 Goals: Give impact to society
+- 🌱 I’m currently learning Django development
 
 ### Languages and Tools:
 
